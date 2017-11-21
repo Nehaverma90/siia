@@ -134,7 +134,7 @@ background-color:transparent !important;
 /* Set default styles for tab content */
 .tabcontent {
     color: white;
-    display: none;
+    display: block;
     padding: 50px;
     text-align: center;
 }
