@@ -107,3 +107,8 @@ blockquote.twitter-tweet a:hover,
 blockquote.twitter-tweet a:focus {
   text-decoration: underline;
 }
+
+.form-horizontal{
+background-color:none !important;
+  border:none !important
+}
