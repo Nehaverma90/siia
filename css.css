@@ -113,3 +113,6 @@ background-color:transparent !important;
   border:none !important;
     margin-left:300px
 }
+.fb_iframe_widget span {
+  left:550px !important;
+}
